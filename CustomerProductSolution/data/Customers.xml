@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Customers>
+    <Customer>
+        <Id>1</Id>
+        <Email>freddyPhil@gmail.com</Email>
+        <FirstName>Fred</FirstName>
+        <LastName>Phillips</LastName>
+        <Phone>098-765-4321</Phone>
+    </Customer>
+    <Customer>
+        <Id>2</Id>
+        <Email>EddieE@hotmail.com</Email>
+        <FirstName>Edward</FirstName>
+        <LastName>Evans</LastName>
+        <Phone>123-456-7890</Phone>
+    </Customer>
+</Customers>
