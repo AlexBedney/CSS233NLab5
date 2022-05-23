@@ -22,11 +22,11 @@ namespace CustomerProductTests
             TestProductListAdd();
             */
 
-            //TestCustomerListConstructors();
-            //TestAddAndDelete();
-            //TestFillAndSave();
-            //TestCount();
-            //TestEquals();
+            TestCustomerListConstructors();
+            TestAddAndDelete();
+            TestFillAndSave();
+            TestCount();
+            TestEquals();
             TestIndexers();
         }
 
